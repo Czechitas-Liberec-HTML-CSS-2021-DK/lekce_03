@@ -1,24 +1,8 @@
----
-tags: czechitas
-lang: cs
-slideOptions:
-    transition: none
-    theme: night
-    margin: 0.05
-    minScale: 0.1
-    maxScale: 5
-    width: 2560
-    height: 1600
-title: Lekce 03 | Tvořím web A–Z
----
-
-{%hackmd anYwyN--TziyASUWcqP-Gw %}
-
 # Tvořím web A–Z: lekce 03
 
 ---
 
-# Dotazy, nejasnosti, frustrace, vtípky...
+Jaro 2021, Praha (30. března 2021)
 
 ---
 
@@ -34,7 +18,7 @@ title: Lekce 03 | Tvořím web A–Z
 # Vlastnost position
 
 - Říkáme jak má být prvek na stránce umístěný
-- Github repo s dnešním cvičením [https://github.com/tvorimweb-2020-praha-podzim/lekce_03.git](https://github.com/tvorimweb-2020-praha-podzim/lekce_03.git)
+- Github repo s dnešním cvičením [https://github.com/tvorimweb-2021-praha-jaro/lekce_03.git](https://github.com/tvorimweb-2021-praha-jaro/lekce_03.git)
 
 ---
 
@@ -87,3 +71,4 @@ title: Lekce 03 | Tvořím web A–Z
 
 - Zadaný v classrooms
 - Ukážeme si co je třeba
+- [https://classroom.github.com/a/jn9ONBVe](https://classroom.github.com/a/jn9ONBVe)
