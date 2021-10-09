@@ -1,8 +1,10 @@
-# Tvořím web A–Z: lekce 03
+# HTML a CSS 1: lekce 03
 
 ---
 
-Jaro 2021, Praha (30. března 2021)
+Podzim 2021, Online
+
+11. října 2021
 
 ---
 
