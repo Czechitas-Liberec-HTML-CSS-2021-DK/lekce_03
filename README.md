@@ -20,7 +20,7 @@ Podzim 2021, Online
 # Vlastnost position
 
 - Říkáme jak má být prvek na stránce umístěný
-- Github repo s dnešním cvičením [https://github.com/tvorimweb-2021-praha-jaro/lekce_03.git](https://github.com/tvorimweb-2021-praha-jaro/lekce_03.git)
+- Github repo s dnešním cvičením [https://github.com/Czechitas-Liberec-HTML-CSS-2021-DK/lekce_03.git](https://github.com/Czechitas-Liberec-HTML-CSS-2021-DK/lekce_03.git)
 
 ---
 
@@ -43,7 +43,7 @@ Podzim 2021, Online
 # Position: absolute
 
 - Prvek zcela vyjme z toku dokumentu a lze jej libovolně umístit
-- Pozicuje se vzhledem ke svému nejbližšímu rodiči který nemá position: static
+- Pozicuje se vzhledem ke svému nejbližšímu rodiči, který nemá position: static
 - Pokud takový rodič neexistuje, pozicuje se vůči stránce
 
 ---
@@ -51,13 +51,13 @@ Podzim 2021, Online
 # Vzájemné překrývání prvků
 
 - Standardní pořadí, jak jsou v dokumentu
-- Prvky které nemají position: static jsou ve vrstvě nahoře
+- Prvky, které nemají position: static jsou ve vrstvě nahoře
 - Lze řídit přes vlastnost <kbd>z-index</kbd>
 
 ---
 
 # Position: fixed
-- Zůstává na obrazovce i když posouvám obrazovku
+- Zůstává na obrazovce, i když posouvám obrazovku
 - Zabírá použitelný prostor na obrazovce
 - Pozor na mobily!!!
 
@@ -71,6 +71,7 @@ Podzim 2021, Online
 
 # První povinný úkol
 
-- Zadaný v classrooms
-- Ukážeme si co je třeba
+- Zadaný v GitHub Classroom
+- Ukážeme, si co je třeba
+- Odevzdat do další lekce **18.10.**
 - [https://classroom.github.com/a/jn9ONBVe](https://classroom.github.com/a/jn9ONBVe)
