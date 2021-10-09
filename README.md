@@ -72,6 +72,6 @@ Podzim 2021, Online
 # První povinný úkol
 
 - Zadaný v GitHub Classroom
+- [https://classroom.github.com/a/taYlUx-0](https://classroom.github.com/a/taYlUx-0)
 - Ukážeme, si co je třeba
 - Odevzdat do další lekce **18.10.**
-- [https://classroom.github.com/a/jn9ONBVe](https://classroom.github.com/a/jn9ONBVe)
